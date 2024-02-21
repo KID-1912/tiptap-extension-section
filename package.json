@@ -1,0 +1,25 @@
+{
+  "name": "tiptap-extension-section",
+  "version": "1.0.0",
+  "description": "Make tiptap support section tags, which provide predefined styles for content.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tiptap",
+    "extension",
+    "style",
+    "section"
+  ],
+  "author": "kid-1912",
+  "homepage": "https://github.com/KID-1912/tiptap-extension-section",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KID-1912/tiptap-extension-section.git"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "@tiptap/core": "^2.2.3"
+  }
+}
